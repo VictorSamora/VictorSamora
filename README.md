@@ -6,7 +6,7 @@ Olá!! Me chamo Victor Samora Nunes, tenho 20 anos e sou nascido do Espirito San
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias em Aprendizado
 
 <img 
     align="left" 
